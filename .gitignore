@@ -1,0 +1,8 @@
+*.recsession
+*.trcmxmi
+*.trcnxmi
+*.trcpxmi
+*.executiondlr
+*.trcadlr
+*.class
+*.testdata
